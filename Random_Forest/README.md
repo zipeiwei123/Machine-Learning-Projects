@@ -1,7 +1,3 @@
-Project For Data Mining Class:
-Name: Zipei Wei
-Email: Zipei_Wei@student.uml.edu
-Student ID: 01719006
 
 ##This project is written in python version 3.6, and re-modified later on to suit python 2.x
 # functions.py is a file that contains list of functions that shared both in DecisionTree.py and RandomForest.py
